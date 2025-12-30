@@ -17,20 +17,13 @@ Data are then displayed using standard weewx reporting and plotting utilities.
 
 Installation instructions:
 
-0) download the extension:
-wget https://github.com/vinceskahan/vds-weewx-v3-mem-extension/archive/refs/heads/master.zip -O vds-weewx-v3-mem-extension.zip
-
 1) run the installer:
-wee_extension --install vds-weewx-v3-mem-extension.zip
+wee_extension --install https://github.com/weewx-contrib/mem-extension/archive/refs/heads/main.zip
 
 2) restart weewx:
 
 # systemd init systems
 sudo systemctl restart weewx
-
-# 'or' for old sch ol init.d systems
-sudo /etc/init.d/weewx stop
-sudo /etc/init.d/weewx start
 
 ===========================================================================
 
