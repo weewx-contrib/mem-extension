@@ -5,7 +5,8 @@ Tom's memory monitor updated to v3
 (based on Matthew Wall's mem demonstration extension)
  - vinceskahan@gmail.com 2014-1129
 
-# update 2021-1130: modified installer instructions to use wee_exxtension
+# update 2026-0818: modified ExtensionInstaller import per tkeffer recommendation
+# update 2021-1130: modified installer instructions to use wee_extension
 # update 2019-0308: this requires python3
 
 ===========================================================================

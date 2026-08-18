@@ -1,2 +1,5 @@
+0.2 18aug2026
+* tweak ExtensionInstaller import per tkeffer suggestion
+
 0.1 28nov2014
 * initial version based on Matthew's pmon 0.2 and Tom's mem.py from v2

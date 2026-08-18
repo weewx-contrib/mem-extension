@@ -9,7 +9,7 @@
 # Copyright 2014 Matthew Wall
 #-----
 
-from setup import ExtensionInstaller
+from weecfg.extension import ExtensionInstaller
 
 def loader():
     return MemoryMonitorInstaller()
